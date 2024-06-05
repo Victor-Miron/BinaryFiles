@@ -1,1 +1,1 @@
-BMP is the file extension for a Windows bitmap file.
+BMP is the file extension for a Windows bitmap file..
